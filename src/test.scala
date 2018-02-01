@@ -7,3 +7,7 @@ display(df)
 
 // COMMAND ----------
 
+df.count()
+
+// COMMAND ----------
+
