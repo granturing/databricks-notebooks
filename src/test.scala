@@ -11,3 +11,7 @@ df.count()
 
 // COMMAND ----------
 
+// MAGIC %python df = spark.range(100)
+
+// COMMAND ----------
+
